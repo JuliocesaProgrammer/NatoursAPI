@@ -1,0 +1,22 @@
+{
+  "name": "natours",
+  "version": "1.0.0",
+  "description": "NodeJS express e mongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuliocesaProgrammer/NatoursAPI.git"
+  },
+  "author": "Julio Cesar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuliocesaProgrammer/NatoursAPI/issues"
+  },
+  "homepage": "https://github.com/JuliocesaProgrammer/NatoursAPI#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
